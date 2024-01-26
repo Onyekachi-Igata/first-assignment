@@ -1,0 +1,46 @@
+p {
+    color: green;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    border-radius: 70px;
+    box-shadow: 5px 5px 10px;
+    margin: auto;
+    display: grid;
+    margin-top: 20px;
+}
+
+    
+h1 {
+    text-align: center;
+    border-radius: ;
+    background-color: aqua;
+    margin: auto;
+    width: 300px;
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+    margin: auto;
+    width: 200px;
+}
+
+div {
+    text-align: left;
+    color: green;
+    background-color: burlywood;
+    display: grid;
+    font-size: 18px;
+}
+ul > li {
+    text-align: left;
+    font-style: italic;
+}
